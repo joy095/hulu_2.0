@@ -20,15 +20,14 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 <b>
 
-<a href='href="https://airbnb-2-0-tau.vercel.app'>
 <div align='center'>
 <h2>Hey Guy's Click on the image to see the deployed web site</h2>
 </div>
-</a>
 
 <br>
 
-<a href='href="https://airbnb-2-0-tau.vercel.app'>
+</a>
+<a href="https://hulu-2-0-steel-one.vercel.app">
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="./images/movieSearch.png">
 </div>
